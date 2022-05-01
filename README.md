@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Deevin07
+- 👀 I’m interested in coding and using to do quantitative analysis and make trading algorithums
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python in trading and quantitative analysis
+- 📫 How to reach me throught my liniked in 
+- https://www.linkedin.com/in/vineet-dusa-a266321b5/
